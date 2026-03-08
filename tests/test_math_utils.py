@@ -8,3 +8,7 @@ def test_multiply():
 
 def test_multiply_negative():
     assert multiply(-3, 5) == -15
+
+a = 1
+b = 2
+c =3
